@@ -3,6 +3,7 @@
 - 👩🏽‍💻 I’m currently working on a web3 dapp
 - 🌱 I’m currently learning about Web3
 - 🙋🏽‍♀️ Pronouns: she/her
+- 📧 Email: stacey.graham1106@gmail.com
 - :earth_americas: Things I love to do outside of coding:
 
   :seedling: Garden

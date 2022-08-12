@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 👋🏽 I'm Stacey
 
-<!--
-**StashaG/StashaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩🏽‍💻 I’m currently working on a web3 dapp
+- 🌱 I’m currently learning about Web3
+- 🙋🏽‍♀️ Pronouns: she/her
+- :earth_americas: Things I love to do outside of coding:
 
-Here are some ideas to get you started:
+  :seedling: Garden
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  💃🏾 Dance
+
+   🧘🏽‍♀️ Yoga
+
+   🗺️ Travel
+   
+   💎 Make beaded jewelry
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Staceyluvstech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/staceygraham1106/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram/staceyluvstech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+</p>
+
+
+
+
+
+

@@ -1,6 +1,6 @@
 ### <h3 align="center">Hi there 👋🏽 I'm Stacey</h3>
 
-<h3 align="center">A passionate software engineer from Philadelphia</h3>
+<h3 align="center">A passionate software engineer in Atlanta, GA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stashag&label=Profile%20views&color=0e75b6&style=flat" alt="stashag" /> </p>
 

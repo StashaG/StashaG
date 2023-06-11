@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stashag" alt="stashag" /></a> </p>
 
 - 👩🏽‍💻 I’m currently contributing to the [YNA Project](https://github.com/Young-N-Ambitious/yna_frontend)
-- 🌱 I’m currently learning about Web3
+- 🌱 I’m currently learning more about Angular.
 - 🙋🏽‍♀️ Pronouns: she/her
 - 📧 Email: stacey.graham1106@gmail.com
 - 👩🏽‍💻 All of my projects are available at [https://stacey.codes](https://stacey.codes)

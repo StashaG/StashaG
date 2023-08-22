@@ -12,17 +12,17 @@
 - 🙋🏽‍♀️ Pronouns: she/her
 - 📧 Email: stacey.graham1106@gmail.com
 
-- :earth_americas: Things I love to do outside of coding:
+### :earth_americas: Things I love to do outside of coding:
 
-  :seedling: Gardening
+:seedling: Gardening
 
-  💃🏾 Dance
+💃🏾 Dance
 
-   🧘🏽‍♀️ Yoga
+🧘🏽‍♀️ Yoga
 
-   🗺️ Travel
+🗺️ Travel
    
-   💎 Make beaded jewelry
+💎 Creates beaded jewelry
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

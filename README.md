@@ -4,7 +4,7 @@
 
 <h3 align="center">Software Engineer in Atlanta, GA</h3>
 
-- 👩🏽‍💻 I have been accepted into the Zero to Merge Incubator with [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) and I am excited to be participating in some cool opensource projects.
+- 👩🏽‍💻 I have recently been accepted into the Zero to Merge Incubator with [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) and I am excited to be participating in some cool opensource projects.
  
 - 👩🏽‍💻 I’m currently contributing to the [YNA Project](https://github.com/Young-N-Ambitious/yna_frontend)
 

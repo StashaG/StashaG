@@ -14,15 +14,15 @@
 
 ### :earth_americas: Things I love to do outside of coding:
 
-:seedling: Gardening
+&nbsp; &nbsp; &nbsp; :seedling: Gardening
 
-💃🏾 Dance
+&nbsp; &nbsp; &nbsp; 💃🏾 Dance
 
-🧘🏽‍♀️ Yoga
+&nbsp; &nbsp; &nbsp; 🧘🏽‍♀️ Yoga
 
-🗺️ Travel
+&nbsp; &nbsp; &nbsp; 🗺️ Travel
    
-💎 Creates beaded jewelry
+&nbsp; &nbsp; &nbsp; 💎 Creates beaded jewelry
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

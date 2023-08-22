@@ -1,11 +1,8 @@
-### <h3 align="center">Hi there 👋🏽 I'm Stacey</h3>
-
-<h3 align="center">A passionate software engineer in Atlanta, GA</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stashag&label=Profile%20views&color=0e75b6&style=flat" alt="stashag" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stashag" alt="stashag" /></a> </p>
+### <h3 align="center">Hey there 👋🏽 I'm Stacey</h3>
 
+<h3 align="center">Software Engineer in Atlanta, GA</h3>
 
 - 👩🏽‍💻 I have been accepted into the Zero to Merge Incubator with [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) and I am excited to be participating in some cool opensource projects.
  
@@ -17,7 +14,7 @@
 
 - :earth_americas: Things I love to do outside of coding:
 
-  :seedling: Garden
+  :seedling: Gardening
 
   💃🏾 Dance
 
@@ -39,6 +36,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stashag&show_icons=true&locale=en" alt="stashag" /></p>
 
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stashag" alt="stashag" /></a> </p>
 
 
 

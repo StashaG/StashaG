@@ -4,11 +4,11 @@
 
 <h3 align="center">Software Engineer in Atlanta, GA</h3>
 
-- 👩🏽‍💻 I have recently been accepted into the Zero to Merge Incubator with [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) and I am excited to be participating in some cool opensource projects.
+- 👩🏽‍💻 I recently successfully completed the Zero to Merge Incubator, a four-week intensive program designed by the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/). The program equips participants with the skills and knowledge required to work on various cloud native open source projects and effectively engage with CNCF project maintainers, identify challenges within the cloud native ecosystem, collaborate on open GitHub issues, and contribute through Pull Requests (PRs). 
  
 - 👩🏽‍💻 I’m currently contributing to the [YNA Project](https://github.com/Young-N-Ambitious/yna_frontend)
 
-- 🌱 I’m currently learning more about Angular.
+- 🌱 I’m currently learning more about React.
 - 🙋🏽‍♀️ Pronouns: she/her
 - 📧 Email: stacey.graham1106@gmail.com
 
@@ -23,6 +23,11 @@
 &nbsp; &nbsp; &nbsp; 🗺️ Travel
    
 &nbsp; &nbsp; &nbsp; 💎 Creates beaded jewelry
+
+### 🏆 Badges I received:
+
+![zero-to-merge-cohort-01](https://github.com/StashaG/StashaG/assets/35972972/ff8c16ab-f9f7-483e-ad80-e0fde3c4964f)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

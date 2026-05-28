@@ -20,7 +20,7 @@
 
 &nbsp; &nbsp; &nbsp; 🗺️ Travel
    
-&nbsp; &nbsp; &nbsp; 💎 Creates beaded jewelry 
+&nbsp; &nbsp; &nbsp; 💎 Create beaded jewelry 
 
 ### 🏆 Badges I received:
 

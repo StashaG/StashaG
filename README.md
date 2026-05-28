@@ -4,11 +4,11 @@
 
 <h3 align="center">Software Engineer in Atlanta, GA</h3>
 
-- 👩🏽‍💻 I recently successfully completed the Zero to Merge Incubator, a four-week intensive program designed by the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/). The program equips participants with the skills and knowledge required to work on various cloud native open source projects and effectively engage with CNCF project maintainers, identify challenges within the cloud native ecosystem, collaborate on open GitHub issues, and contribute through Pull Requests (PRs). 
- 
-- 👩🏽‍💻 I’m currently enjoying learning Python 🐍.
+- 👩🏽‍💻 I successfully completed the Zero to Merge Incubator, a four-week intensive program designed by the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/). The program equips participants with the skills and knowledge required to work on various cloud native open source projects and effectively engage with CNCF project maintainers, identify challenges within the cloud native ecosystem, collaborate on open GitHub issues, and contribute through Pull Requests (PRs). 
 
-- 🌱 I’m currently learning more about React.
+- 👩🏽‍💻 I’m currently studying for the AWS Solutions Architect Exam.
+- 👩🏽‍💻 I’m currently enjoying learning Python 🐍.
+- 🌱 Looking forward to learning Linux next.
 - 🙋🏽‍♀️ Pronouns: she/her
 - 📧 Email: stacey.graham1106@gmail.com
 
